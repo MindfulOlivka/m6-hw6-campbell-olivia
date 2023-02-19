@@ -31,7 +31,7 @@ header {
 }
 
 .site-header a:hover {
-        background-color: rgb(40, 78, 111);
+    background-color: rgb(40, 78, 111);
     }
 
 .link {
@@ -48,7 +48,6 @@ header {
     margin-right: auto; 
     color: rgb(40, 78, 111);
 }    
-/* use CLEAR */
 
 /*  ---------  MAIN  ----------------- */
 
@@ -103,13 +102,6 @@ img {
     background-color: rgb(222, 253, 253); 
 }
 
-/* #connect {
-    padding-bottom: 0px;
-    text-align: center;
-} */
-
-
-
 #git,
 #linkedin,
 #overflow {
@@ -117,6 +109,8 @@ img {
     margin: 0 auto;
     padding: 10px;
 }
+
+/*  ---------  FOOTER ----------------- */
 
 footer {
     margin-top: auto;
